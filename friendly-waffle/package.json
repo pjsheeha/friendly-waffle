@@ -8,10 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "16.1.6"
+    "next": "16.1.6",
+    "pg": "^8.18.0"
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@types/pg": "^8.16.0",
     "@types/react": "^19",
     "typescript": "^5"
   }
